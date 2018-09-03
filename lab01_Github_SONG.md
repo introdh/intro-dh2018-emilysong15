@@ -23,11 +23,4 @@ This summer, I interned at a Digital Marketing Agency called Groove Commerce. Du
 
 I also created a video of my experiences abroad. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-https://youtu.be/0X4qAssmLOI 
-
-
-Add a link to the piece of media that is clickable.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/0X4qAssmLOI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCAD_7x8O70wZfBKuIXB_TzEWOiSg)](https://youtu.be/0X4qAssmLOI) 
