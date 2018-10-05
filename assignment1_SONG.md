@@ -2,7 +2,7 @@
 
 [Topic Model](https://emilysong15.github.io/dh-topic-models/)
 
-# Written Response
+## Written Response
 
 The 500-1500 word response should explain the data set, the initial findings, and how one would go about further exploring the data set/ findings/ arguments. In other words, the response should show that you understand what topic modeling is, how it works, and what we can learn from this method by way of applying it to a journal, which can be accomplished by addressing the following questions:
 
@@ -19,4 +19,8 @@ Meghan Brett describes topic modeling as, "a form of text mining, a way of ident
 
 *The Journal of Criminal Law and Criminology* is a peer-reviewed, scholary journal focused on current criminal law debtes and issues. This includes research and theories directly related to societal concerns, expectations, and reform. The journal is wideley respected among scholards and is one of the most read and cited publications in the legal realm. Its publishings encourage readers to debate and discuss the ongoing issues of today's world regarding crime and the justice system, furthering our ability to grow on both and intellectual and societal level. 
 
-My interface seeks to uncover the major topics that are analyzed in *The Journal of Criminal Law and Criminology* 
+My interface seeks to uncover the major topics that are analyzed in *The Journal of Criminal Law and Criminology*, given the abundance of information the journal contains. More specificically, I am seeking to understand how the discussions and debates from 1910 to 2014 pertain to the problems of today. This is especially relevant given the recent and growing abuses of power and turmoil regarding police brutality and race. 
+
+Data selected 
+
+My topic model website contains 15 topics. I initially began with 25, and worked my way up to 40; however, this scope was too wide, making the topics broad, generalized, and difficult to interpret. On the other hand, 10 topics was limiting in terms of the information it revealed. 15 topics left room for categorization and interpretation. While the site still contains two topics I would throw out (as noted on the site), this number gave me a general but focused insight into the journal itself. 
