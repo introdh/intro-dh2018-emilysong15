@@ -36,3 +36,11 @@ The 500-1500 word paper should address the following:
 Describe the data you selected for your analysis. Assume the reader is unfamiliar with the data.
 Explain the questions/ arguments your network generates about your data.
 Drawing on the constraints, critiques and ideas in our readings, discuss the possibilitie and limits of network analysis as applied to your network and for network analysis generally. Make sure to cite the readers.
+
+For the supreme court data, we are looking at co-citation networks, which means two cases are connected by an edge if 5 or more cases cite the cases together. We do this because otherwise the network will overrepresent cases that include a lot of citations.
+
+The netowrk must compare at least 2 sets of casses. Make sure in the paper to explain why you picked the cases that are being comparing.
+
+Citations: Use a modified format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012).
+
+
